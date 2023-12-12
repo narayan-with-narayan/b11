@@ -495,3 +495,5 @@
 #   File "<stdin>", line 1, in <module>
 # TypeError: type() takes 1 or 3 arguments
 # >>>
+
+# looking like a woow
