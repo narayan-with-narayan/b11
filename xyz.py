@@ -35,7 +35,3 @@ import abcd
 
 # print(__name__)  # __main__  # filename
 # print(abcd.var)
-
-# for testing 
-
-# im fine
